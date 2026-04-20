@@ -7,7 +7,7 @@ version '1.0.0'
 
 shared_scripts {
     '@ox_lib/init.lua',
-    --'@prism_uipack/init.lua', --Opcional, apenas se for usar o prism_uipack para o menu, caso contrário, pode remover essa linha e ajustar o menu.html para usar outro framework ou código personalizado.
+    --'@prism_uipack/init.lua', --Opcional, apenas se for usar o prism_uipack para o menu.
     'config.lua'
 }
 
