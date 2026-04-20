@@ -109,7 +109,7 @@ Config.CounterStash = { ... }    -- configuração do balcão
 
 ## Licença
 
-Este projeto está licenciado sob a [MIT License](./LICENSE).
+Este projeto está licenciado sob a [GPL-3.0-1](./LICENSE).
 
 ---
 
